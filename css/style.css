@@ -1372,9 +1372,9 @@ pre code {
   }
   .col-lg-4 {
     -webkit-box-flex: 0;
-    -ms-flex: 0 0 33.33333%;
-    flex: 0 0 33.33333%;
-    max-width: 33.33333%;
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
   }
   .col-lg-5 {
     -webkit-box-flex: 0;
@@ -1579,9 +1579,9 @@ pre code {
   }
   .col-xl-5 {
     -webkit-box-flex: 0;
-    -ms-flex: 0 0 41.66667%;
-    flex: 0 0 41.66667%;
-    max-width: 41.66667%;
+    -ms-flex: 0 0 35%;
+    flex: 0 0 35%;
+    max-width: 35%;
   }
   .col-xl-6 {
     -webkit-box-flex: 0;
@@ -1591,9 +1591,9 @@ pre code {
   }
   .col-xl-7 {
     -webkit-box-flex: 0;
-    -ms-flex: 0 0 58.33333%;
-    flex: 0 0 58.33333%;
-    max-width: 58.33333%;
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%;
   }
   .col-xl-8 {
     -webkit-box-flex: 0;
